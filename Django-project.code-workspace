@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Anaconda3"
+		}
+	],
+	"settings": {
+		"terminal.integrated.automationShell.windows": ""
+	}
+}
